@@ -3,6 +3,7 @@
 ;; Author: Thorsten Jolitz <tjolitz AT gmail DOT com>
 ;; Version: 2.0
 ;; URL: https://github.com/tj64/outorg
+;; Package-Requires: ((emacs "24.4"))
 
 ;;;; MetaData
 ;;   :PROPERTIES:
